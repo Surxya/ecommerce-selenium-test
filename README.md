@@ -50,7 +50,7 @@ After running the tests, you’ll find:
 
 ## 🛠️ How to Run the Tests
 
-### 1️⃣ Create Virtual Environment & Install Dependencies
+Create Virtual Environment & Install Dependencies
 
 ```bash
 python3 -m venv venv
